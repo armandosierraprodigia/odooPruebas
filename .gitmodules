@@ -1,0 +1,4 @@
+[submodule "armandosierraprodigia/odoo_test"]
+	path = armandosierraprodigia/odoo_test
+	url = git@github.com:armandosierraprodigia/odoo_test.git
+	branch = master
